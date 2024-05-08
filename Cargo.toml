@@ -1,0 +1,18 @@
+[package]
+name = "hominem"
+version = "0.0.0"
+authors = ["Claire V. Hammond <me@cvhammond.com>"]
+edition = "2021"
+categories = ["science", "simulation", "parser-implementations", "game-development", "science::robotics"]
+description = "A library for modeling muscles and tendons in biomechanical simulations."
+license = "MIT OR Apache-2.0"
+homepage = "https://chiron.rs/hominem"
+repository = "https://github.com/biomechanics-foundation/hominem"
+readme = "README.md"
+keywords = ["biomechanics", "muscles", "tendons", "simulation", "modeling"]
+exclude = []
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
